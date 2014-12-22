@@ -1,4 +1,1 @@
-accessibility-checklist
-=======================
-
-WCAG Level A front-end development checklist
+[Checklist](https://github.com/twg/accessibility-checklist/wiki/WCAG-Level-A-Checklist)
