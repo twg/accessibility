@@ -4,10 +4,10 @@ By **December 31st 2014** all Ontario organizations of twenty or more employees 
 
 **Table of Contents**
 
-- [[Key Dates]]
-- [[Key Acronyms]]
-- [[Automated Testing]]
-- [[Installing Screen Readers]]
-- [[Intro to JAWS]]
-- [[Intro to NVDA]]
-- [[WCAG Level A Checklist]]
+- [Key Dates](https://github.com/twg/accessibility-checklist/wiki/Key-Dates)
+- [Key Acronyms](https://github.com/twg/accessibility-checklist/wiki/Key-Acronyms)
+- [Automated Testing](https://github.com/twg/accessibility-checklist/wiki/Automated-Testing)
+- [Installing Screen Readers](https://github.com/twg/accessibility-checklist/wiki/Installing-Screen-Readers)
+- [Intro to JAWS](https://github.com/twg/accessibility-checklist/wiki/Intro-to-JAWS)
+- [Intro to NVDA](https://github.com/twg/accessibility-checklist/wiki/Intro-to-NVDA)
+- [WCAG Level A Checklist](https://github.com/twg/accessibility-checklist/wiki/WCAG-Level-A-Checklist)
